@@ -1,0 +1,86 @@
+body {
+  background-color: rgb(40,40,40);
+
+
+}
+.title {
+  color: rgb(200, 255, 200);
+
+  font-size: 60px;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+
+}
+.pokemon {
+  color: rgb(255,255,0);
+  font-size: 40px;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+.datatext {
+  color: white;
+  font-size: 20px;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+.searchtext {
+  color: rgb(255, 100, 255);
+  font-size: 40px;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+.link {
+
+
+
+  color: rgb(0,255,255);
+  font-size: 20px;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+
+button {
+  border: none;
+  background: rgb(100, 255, 255);
+  color: white;
+  font-size: 40px;
+  opacity: 1;
+
+
+}
+button:hover {
+
+  opacity: 0.9;
+
+
+}
+button:active {
+  opacity: 0.6;
+  font-size: 40px;
+
+
+}
+input[type="text"] {
+  webkit-appearance: none;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+  border-bottom-color: white;
+  background: transparent;
+color: white;
+font-size: 20px;
+
+
+
+
+}
